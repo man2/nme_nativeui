@@ -1,4 +1,4 @@
-# nme_nativeui
+# NME / OpenFL NativeUI for Android
 
 Native UI for Android works on openfl / nme
 
@@ -10,5 +10,6 @@ Providing support for :
 
 Installation:
 Clone the repo then
-
+```
 haxelib dev nativeui nme_nativeui
+```
